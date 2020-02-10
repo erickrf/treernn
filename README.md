@@ -1,3 +1,5 @@
+*Important note*: I did not author this code. This repository was forked around 2017, I had the intention of working with this code but never did. Meanwhile, it seems the original one was deleted and now this one seems to be originally mine. Sadly, I don't remember who was the original author (it was not the one just below).
+
 ## Efficient recursive (tree-structured) neural networks in TensorFlow
 
 (This repository was clone from [here](https://github.com/bogatyy/cs224d), and 
